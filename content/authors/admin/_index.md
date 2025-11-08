@@ -118,7 +118,7 @@ skills:
       - name: CUDA Programming
         description: ''
         percent: 70
-        icon: microchip
+        icon: cpu-chip
       - name: PyTorch & TensorFlow & Hugging Face
         description: ''
         percent: 90
@@ -131,23 +131,19 @@ skills:
         description: ''
         percent: 100
         icon: terminal
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking in the Rockies
-  #       description: ''
-  #       percent: 80
-  #       icon: person-simple-walk
-  #     - name: Building Custom PCs
-  #       description: ''
-  #       percent: 90
-  #       icon: cpu-chip
-  #     - name: Sci-Fi Reading
-  #       description: ''
-  #       percent: 70
-  #       icon: book-open
-
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Reading Books
+        description: ''
+        percent: 100
+        icon: book-open
+      - name: Watch Film and TV-Series
+        description: ''
+        percent: 100
+        icon: film
+      
 languages:
   - name: Italian
     percent: 100
@@ -159,27 +155,27 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
+  - title: National Innovation Award 2020 – PNI 2020
+    # url: https://neurips.cc/
+    # date: '2022-12-01'
+    # awarder: NeurIPS
+    # icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
+      Finalists at PNI 2020, CleanTech \& Energy category, with the start-up Kalya and its project Sentinella
+  - title: Second Place Start-Cup Campania
+    # url: https://www.nsf.gov/
+    # date: '2021-06-15'
+    # awarder: National Science Foundation
+    # icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      Kalya, with its Sentinella smart trap, achieved second place at StartCup Campania 2020
+  - title: Excellent Student
+    # url: https://www.stanford.edu/
+    # date: '2019-06-30'
+    # awarder: Stanford University
+    # icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      DIEM Award for Academic Excellence – Bachelor and Master degrees earned with highest honors (110 cum laude) in 36 and 26 months, respectively
 ---
 
 Computer engineer specialized in Artificial Intelligence, Robotics, and Computer Vision, with experience in developing intelligent robotic systems based on deep learning and human-robot collaboration.
