@@ -58,30 +58,35 @@ education:
     date_start: 2021-10-31
     date_end: 2025-02-14
     summary: |
-      Thesis Title: *Video-Conditioned Multi-Task Imitation Learning for Robotic Systems: Enhancing Robustness Through Object Centric Reasoning*      
+      Thesis Title: *Video-Conditioned Multi-Task Imitation Learning for Robotic Systems: Enhancing Robustness Through Object Centric Reasoning* 
+      Research Activity: Research in design and development of an innovative Deep Learning–based architecture for controlling robotic manipulators capable of learning and reproducing complex tasks from video demonstrations     
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'https://drive.google.com/file/d/1_Rev8qzsbtA6LcNtqJX3R81q7vp2-LIK/view?usp=drive_link'
   
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: Master Degree Computer Engineering (Artificial Intelligence)
+    institution:  University of Salerno
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2019-09-01
+    date_end: 2021-10-26
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
+      Thesis Title: *3D Deep Neural Network for the 6DoF Grasp Pose Estimation on an Embedded Platform*
+      Grade: 110/110 cum laude
+    button:
+      text: 'Video Demo'
+      url: 'https://drive.google.com/file/d/1hjXDb2qW77kJK6rkMc_k599iZJSg8126/view'
   
-  - area: BS Computer Science
-    institution: MIT
+  - area: Bachelor Degree in Computer Engineering
+    institution: University of Salerno
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2021-09-16
+    date_end: 2019-07-23
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Thesis Title: *Creation of a system for managing an automatic irrigation system for a smart pot and integration with an iOS application*
+      Grade: 110/110 cum laude
+    button:
+      text: 'Video Demo'
+      url: 'https://drive.google.com/file/d/1U6boXXPZ6E_4qiIGLSrwtMTSnOSdZ-Py/view'
 
 work:
   - position: Senior AI Research Scientist
