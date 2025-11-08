@@ -157,21 +157,21 @@ languages:
 awards:
   - title: National Innovation Award 2020 – PNI 2020
     # url: https://neurips.cc/
-    # date: '2022-12-01'
+    date: ''
     # awarder: NeurIPS
     # icon: hero/trophy
     summary: |
       Finalists at PNI 2020, CleanTech \& Energy category, with the start-up Kalya and its project Sentinella
   - title: Second Place Start-Cup Campania
     # url: https://www.nsf.gov/
-    # date: '2021-06-15'
+    date: ''
     # awarder: National Science Foundation
     # icon: hero/currency-dollar
     summary: |
       Kalya, with its Sentinella smart trap, achieved second place at StartCup Campania 2020
   - title: Excellent Student
     # url: https://www.stanford.edu/
-    # date: '2019-06-30'
+    date: ''
     # awarder: Stanford University
     # icon: hero/academic-cap
     summary: |
