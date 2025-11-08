@@ -55,8 +55,8 @@ education:
   - area: PhD Computer Engineering
     institution: University of Salerno
     icon: ""
-    date_start: 2021-10
-    date_end: 2025-02
+    date_start: 2021-10-31
+    date_end: 2025-02-14
     summary: |
       Thesis Title: *Video-Conditioned Multi-Task Imitation Learning for Robotic Systems: Enhancing Robustness Through Object Centric Reasoning*      
     button:
