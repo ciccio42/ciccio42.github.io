@@ -157,7 +157,7 @@ languages:
 awards:
   - title: National Innovation Award 2020 – PNI 2020
     url: https://www.pnicube.it/_files/ugd/5437f5_c36e3f98324546419785ffab03c47e0e.pdf
-    date: 2020-4-12
+    date: 2020-12-04
     # awarder: NeurIPS
     # icon: hero/trophy
     summary: |
