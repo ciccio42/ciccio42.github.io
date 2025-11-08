@@ -156,23 +156,23 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: National Innovation Award 2020 – PNI 2020
-    # url: https://neurips.cc/
-    date: null
+    url: https://www.pnicube.it/_files/ugd/5437f5_c36e3f98324546419785ffab03c47e0e.pdf
+    date: 2020-4-12
     # awarder: NeurIPS
     # icon: hero/trophy
     summary: |
       Finalists at PNI 2020, CleanTech \& Energy category, with the start-up Kalya and its project Sentinella
   - title: Second Place Start-Cup Campania
-    # url: https://www.nsf.gov/
-    date: null
+    # url: https://napoli.repubblica.it/sport/2020/10/28/news/start_cup_campania_2020_proclamati_i_vincitori_del_premio_promosso_dalle_universita_campane-272172438/
+    date: 2020-10-28
     # awarder: National Science Foundation
     # icon: hero/currency-dollar
     summary: |
       Kalya, with its Sentinella smart trap, achieved second place at StartCup Campania 2020
   - title: Excellent Student
     # url: https://www.stanford.edu/
-    date: null
-    # awarder: Stanford University
+    date: 2023-03-03
+    awarder: Department of Information Engineering, Electrical Engineering and Applied Mathematics (DIEM), University of Salerno
     # icon: hero/academic-cap
     summary: |
       DIEM Award for Academic Excellence – Bachelor and Master degrees earned with highest honors (110 cum laude) in 36 and 26 months, respectively
