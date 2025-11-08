@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,36 +34,35 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:francescorosa97@virgilio.it'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/ciccio42
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/francesco-rosa/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=4RN4PQwAAAAJ&hl=en&authuser=1
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0001-2375-4839
 
 interests:
-  - Large Language Models
+  - Robotics
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Deep Learning
+  - Imitation Learning - Reinforcement Learning
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Computer Engineering
+    institution: University of Salerno
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2021-10
+    date_end: 2025-02
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis Title: *Video-Conditioned Multi-Task Imitation Learning for Robotic Systems: Enhancing Robustness Through Object Centric Reasoning*      
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
+  
   - area: MS Computer Science
     institution: Carnegie Mellon University
     icon: ""
@@ -73,6 +72,7 @@ education:
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
+  
   - area: BS Computer Science
     institution: MIT
     icon: ""
