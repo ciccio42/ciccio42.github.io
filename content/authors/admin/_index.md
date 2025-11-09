@@ -232,15 +232,15 @@ skills:
       - name: PyTorch & TensorFlow & Hugging Face
         description: ''
         percent: 90
-        icon: 
+        icon: ai
       - name: ROS & ROS2
         description: ''
         percent: 100
-        icon: 
+        icon: robot
       - name: GIT & Docker
         description: ''
         percent: 100
-        icon: 
+        icon: terminal
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
