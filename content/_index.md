@@ -60,9 +60,6 @@ sections:
       filters:
         folders:
           - publications
-        properties:
-          publication_types:
-            contains: article-journal
         featured_only: false
     design:
       view: citation
@@ -75,8 +72,7 @@ sections:
         folders:
           - publications
         properties:
-          publication_types:
-            contains: paper-conference
+          type: journal
         featured_only: false
     design:
       view: citation
