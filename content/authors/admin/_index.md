@@ -224,18 +224,23 @@ skills:
       - name: Python & C/C++
         description: ''
         percent: 100
+        icon: code-bracket
       - name: CUDA Programming
         description: ''
         percent: 70
+        icon: cpu-chip
       - name: PyTorch & TensorFlow & Hugging Face
         description: ''
-        percent: 100
+        percent: 90
+        icon: /assets/media/icons/ai.svg
       - name: ROS & ROS2
         description: ''
         percent: 100
+        icon: /assets/media/icons/robot.svg
       - name: GIT & Docker
         description: ''
-        percent: 90
+        percent: 100
+        icon: /assets/media/icons/terminal.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
