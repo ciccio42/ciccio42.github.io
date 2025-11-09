@@ -62,7 +62,6 @@ sections:
       filters:
         folders:
           - publication/journal-articles
-        exclude_featured: false
     design:
       view: citation
 
