@@ -59,7 +59,7 @@ sections:
       title: Journal Articles
       filters:
         folders:
-          - publications
+          - publications/journal-article
         properties:
           type:
             value: journal
@@ -74,7 +74,7 @@ sections:
       title: Conference Papers
       filters:
         folders:
-          - publications
+          - publications/conference-paper
         properties:
           type:
             value: conference
