@@ -72,7 +72,7 @@ sections:
         folders:
           - publications
         properties:
-          type: journal
+          type: conference
         featured_only: false
     design:
       view: citation
