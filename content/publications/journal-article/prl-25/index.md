@@ -43,6 +43,7 @@ tags:
 
 # Display this page in the Featured widget?
 featured: false
+type: journal
 
 # Standard identifiers for auto-linking
 hugoblox:

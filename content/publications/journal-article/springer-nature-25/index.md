@@ -45,6 +45,7 @@ tags:
 
 # Display this page in the Featured widget?
 featured: true
+type: conference
 
 # Standard identifiers for auto-linking
 hugoblox:
