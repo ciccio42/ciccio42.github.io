@@ -52,44 +52,16 @@ sections:
     design:
       view: article-grid
       columns: 2
-  # ==============================
-  # JOURNAL ARTICLES
-  # ==============================
-  - block: collection
-    content:
-      title: Journal Articles
-      source: publications/journal-articles/cite_all.bib
-      filters:
-        folders:
-          - publications/journal-articles
-    design:
-      view: citation
 
-  # ==============================
-  # CONFERENCE PAPERS
-  # ==============================
-  - block: collection
-    content:
-      title: Conference Papers
-      text: ''
-      filters:
-        folders:
-          - publication/conference-paper
-        exclude_featured: false
-    design:
-      view: citation
 
-  # ==============================
-  # PREPRINTS
-  # ==============================
   - block: collection
+    id: papers
     content:
-      title: Preprints
-      text: ''
+      title: Conference Publications
       filters:
         folders:
-          - publication/preprint
-        exclude_featured: false
+          - publications
+        featured_only: false
     design:
       view: citation
 
