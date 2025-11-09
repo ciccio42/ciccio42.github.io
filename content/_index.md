@@ -59,6 +59,10 @@ sections:
     content:
       title: Journal Articles
       source: publications/journal-articles/cite_all.bib
+      filters:
+        folders:
+          - publication/journal-articles
+        exclude_featured: false
     design:
       view: citation
 
