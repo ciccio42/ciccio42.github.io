@@ -76,7 +76,7 @@ sections:
           - publications
         properties:
           publication_types:
-          contains: paper-conference
+            contains: paper-conference
         featured_only: false
     design:
       view: citation
