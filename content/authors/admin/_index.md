@@ -89,22 +89,132 @@ education:
       url: 'https://drive.google.com/file/d/1U6boXXPZ6E_4qiIGLSrwtMTSnOSdZ-Py/view'
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Post-Doctoral Researcher
+    company_name: University of Salerno
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2024-11-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Conducting research on data-driven control architectures for anthropomorphic robot manipulators, leveraging Vision-Language-Action models to enable adaptive and intelligent robotic behavior
+  - position: Visiting Ph.D. Student
+    company_name: Groupe de Recherche en Informatique, Image, Automatique et Instrumentation de Caen (GREYC)
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-04-01
+    date_end: 2024-07-30
+    summary: |2-
+      Conducted research under Professor *Luc Brun* on applying **Graph Neural Networks in Robotics Learning**. Focused on using GNNs as heuristic estimators for Task Planning. Evaluated state-of-the-art GNNs to assess their effectiveness in heuristic estimation for robotic planning problems.
+  - position: External Expert
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2025-03-01
+    date_end: 2025-09-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Teacher for training course on *Industrial Robotics and Video Analysis*. Designed and delivered lectures and hands-on sessions on Industrial Robotics, Computer Vision, and Artificial Intelligence
+  - position: Accademic Tutor
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2025-03-01
+    date_end: 2025-07-31
+    summary: |
+      Tutor for the class *Fisica Generale*. Preparation and delivery of practical lectures for first-year Bachelor students in Computer Engineering for Digital Medicine.
+  - position: Accademic Tutor
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2025-03-01
+    date_end: 2025-07-31
+    summary: |
+      Tutor for the class *Fisica 2*. Preparation and delivery of practical lectures for second-year Bachelor students in Computer Engineering.
+  - position: External Expert
+    company_name: Fondazione di Istruzione Tecnica Superiore - ICT Campus
+    icon: ''
+    date_start: 2025-02-01
+    date_end: 2025-04-30
+    summary: |
+      Teacher for the training course in *Data Analytics and Machine Learning*. Preparation and delivery of theoretical and practical lectures on topics like: Polynomial Regressors, Support Vector Machines, Decision Trees. Practical exercises in Python using the scikit-learn library
+  - position: External Expert
+    company_name: Liceo Scientifico Statale Francesco Severi
+    icon: ''
+    date_start: 2025-01-01
+    date_end: 2025-04-30
+    summary: |
+      Teacher for the orientation and training program *Coding and Robotics: Create Your Bot*
+  - position: Accademic Tutor
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2024-09-01
+    date_end: 2025-02-28
+    summary: |
+      Tutor for the class *Algoritmi e Strutture Dati*. Preparation and delivery of practical lectures for second-year Bachelor students in Computer Engineering for Digital Medicine.
+  - position: External Expert
+    company_name: Liceo Scientifico Statale Francesco Severi
+    icon: ''
+    date_start: 2024-11-01
+    date_end: 2025-01-31
+    summary: |
+      Teacher for the orientation and training program *Computer Engineering: Discover the Future of Intelligent Technologies*
+  - position: Accademic Tutor
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2023-09-01
+    date_end: 2024-02-28
+    summary: |
+      Tutor for the class *Fondamenti di Programmazione*. Preparation and delivery of practical lectures for first-year Bachelor students in Computer Engineering.
+  - position: Accademic Tutor
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2023-02-01
+    date_end: 2023-08-31
+    summary: |
+      Tutor for the class *Calcolatori Elettronici*. Preparation and delivery of practical lectures for first-year Bachelor students in Computer Engineering.
+  - position: Accademic Tutor
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2022-09-01
+    date_end: 2023-02-28
+    summary: |
+      Tutor for the class *Fondamenti di Programmazione*. Preparation and delivery of practical lectures for first-year Bachelor students in Computer Engineering.
+  - position: R&D and Co-Founder
+    company_name: Kalya
+    icon: ''
+    date_start: 2020-01-01
+    date_end: 2021-12-31
+    summary: |
+      Innovative Start-up in Agriculture 4.0. Designed and implemented the image capture and processing system for the smart trap *Sentinella*. Developed a network of traps to estimate populations of harmful insects in crops.
+  - position: Student Assistant and Software Developer
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2020-09-01
+    date_end: 2021-07-30
+    summary: |
+      Scholarship within the project *Cognitive Robotics for Orientation in Computer Engineering*. Provided technical support to participants in the RobotCup@School competition, developing software for the Pepper social robot. Managed and optimized educational resources on the e-learning platform. Delivered lectures on robotics and programming topics.
+  - position: Student Assistant and Software Developer
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2019-09-01
+    date_end: 2020-07-30
+    summary: |
+      Scholarship within the project *Cognitive Robotics for Orientation in Computer Engineering*.Provided technical support to participants in the RobotCup@School competition, developing software for the Pepper social robot. Optimized software for connecting Pepper to IoT devices using the MQTT protocol. Managed and enhanced educational content. Delivered lectures on robotics and programming.
+  - position: Undergraduate Internship
+    company_name: Mivia Lab, University of Salerno
+    icon: ''
+    date_start: 2019-02-01
+    date_end: 2020-06-30
+    summary: |
+      Training Internship within the project **Apple Foundation Program**. Designed and implemented a data acquisition and transmission system for a smart pot, enabling autonomous irrigation management. Developed a mobile iOS application for user interaction with the smart pot.
+  - position: Internship
+    company_name: Alilauro
+    icon: ''
+    date_start: 2016-02-01
+    date_end: 2016-02-26
+    summary: |
+      School-Work Alternation. Controlled, verified safety, and maintained systems and equipment for marine engines. Conducted in-depth study of safety procedures and operational efficiency.
+  - position: Apprentice
+    company_name: Italia Fiori S.n.c.
+    icon: ''
+    date_start: 2012-01-01
+    date_end: 2018-12-31
+    summary: |
+      Administrative Assistant – Family Flower Sales and Transport Business. Managed company accounting and financial operations. Handled customer relations and order management. Supervised warehouse operations, including inventory control and procurement. Maintained and managed the company’s vehicle fleet.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
