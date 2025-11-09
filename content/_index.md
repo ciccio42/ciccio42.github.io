@@ -53,6 +53,16 @@ sections:
       view: article-grid
       columns: 2
 
+  - block: collection
+    id: papers
+    content:
+      title: Journal Articles
+      filters:
+        folders:
+          - publications
+        featured_only: false
+    design:
+      view: citation
 
   - block: collection
     id: papers
