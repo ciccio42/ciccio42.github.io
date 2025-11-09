@@ -53,7 +53,7 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: Publications
+  - block: collection
     id: journal_articles
     content:
       title: Journal Articles
