@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *European Robotics Forum 2024 (ERF-24)*
-publication_short: In *ERF*
+publication_short: In *ERF-24*
 
 abstract: A significant challenge in robotics is teaching robots to replicate tasks from a single visual demonstration. Imitation Learning is a valuable approach that allows training end-to-end control architectures that can replicate the intent of the demonstrator. However, a common issue is that these systems frequently manipulate the incorrect object. Our study introduces a novel approach that leverages the ability to explicitly solve relevant problems for task resolution, such as target object localization. Our validation shows that the proposal overtakes the leading method thanks to its ability to locate the target object.
 
