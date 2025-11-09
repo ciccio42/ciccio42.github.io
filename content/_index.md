@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: articles
     content:
-      title: Articles
+      title: Publications
       filters:
         folders:
           - publications
