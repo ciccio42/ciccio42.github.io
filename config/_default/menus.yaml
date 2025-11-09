@@ -16,7 +16,7 @@ main:
   - name: Research Projects
     url: research_projects/
     weight: 30
-  - name: Co-supervised Masters Thesis
+  - name: Co-Supervised Masters Thesis
     url: mt_projects/
     weight: 30
   - name: Projects

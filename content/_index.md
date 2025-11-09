@@ -41,10 +41,11 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+  
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: Featured Publications
       filters:
         folders:
           - publications
@@ -63,6 +64,19 @@ sections:
         featured_only: false
     design:
       view: citation
+
+  - block: collection
+    id: papers
+    content:
+      title: Featured Co-Supervised Master Thesis
+      filters:
+        folders:
+          - mt_projects
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 1  
+  
 
   # - block: collection
   #   id: talks

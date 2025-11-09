@@ -10,6 +10,8 @@ tags:
   - Multi-Task
   - Data-Driven Control Policy
   - ROS
+
+featured: true
 ---
 
 This thesis investigates the use of fine-tuning in data-driven robotic control, focusing on video-conditioned imitation learning. While fine-tuning is widely successful in computer vision and natural language processing, its application to robotics is challenging due to differences in robot designs, environments, and control spaces.
