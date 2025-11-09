@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Francesco_Rosa_CV.pdf
       headings:
         about: ''
         education: ''
@@ -36,7 +36,7 @@ sections:
       text: |-
         My research focuses on the design and development of **deep learning–based architectures** for robotic manipulators, especially anthropomorphic robots. I develop data-driven control systems that enable robots to **learn complex tasks from video demonstrations or natural-language instructions**, leveraging Vision-Language-Action models to make robotic behavior more adaptive, intelligent, and capable of autonomously performing complex manipulation tasks.
 
-        I also collaborate with prof. Vincenzo Carletti, on a wide range of research topics, including **Anomaly Detection in IoT network traffic**, where I analyze the use of **Graph Neural Networks (GNNs)** to detect malicious behaviors, and on the **Graph Matching Problem**, where I am developing a **GPU-accelerated algorithm** to tackle this well-known NP-hard problem.
+        I also collaborate with Prof. *Vincenzo Carletti*, on a wide range of research topics, including **Anomaly Detection in IoT network traffic**, where I analyze the use of **Graph Neural Networks (GNNs)** to detect malicious behaviors, and on the **Graph Matching Problem**, where I am developing a **GPU-accelerated algorithm** to tackle this well-known NP-hard problem.
 
         Please reach out to collaborate 😃
     design:
