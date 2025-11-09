@@ -57,7 +57,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Conference Publications
+      title: Conference Papers
       filters:
         folders:
           - publications
