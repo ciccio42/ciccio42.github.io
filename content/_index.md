@@ -60,10 +60,7 @@ sections:
       filters:
         folders:
           - publications/journal-article
-        properties:
-          type:
-            value: journal
-            required: true
+        include_subfolders: true
         featured_only: false
     design:
       view: citation
@@ -75,10 +72,7 @@ sections:
       filters:
         folders:
           - publications/conference-paper
-        properties:
-          type:
-            value: conference
-            required: true
+        include_subfolders: true
         featured_only: false
     design:
       view: citation
