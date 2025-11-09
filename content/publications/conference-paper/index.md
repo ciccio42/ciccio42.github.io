@@ -75,18 +75,10 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: ""
 ---
+
 <iframe 
   src="presentazione_roman.pdf"
   width="100%"
   height="600px"
   style="border: none;"
 ></iframe>
-
-
-<!-- > [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

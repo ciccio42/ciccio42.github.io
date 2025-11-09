@@ -34,7 +34,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on the design and development of deep learning–based architectures for robotic manipulators, especially anthropomorphic robots. I develop data-driven control systems that enable robots to learn complex tasks from video demonstrations or natural-language instructions, leveraging Vision-Language-Action models to make robotic behavior more adaptive, intelligent, and capable of autonomously performing complex manipulation tasks.
+        My research focuses on the design and development of **deep learning–based architectures** for robotic manipulators, especially anthropomorphic robots. I develop data-driven control systems that enable robots to **learn complex tasks from video demonstrations or natural-language instructions**, leveraging Vision-Language-Action models to make robotic behavior more adaptive, intelligent, and capable of autonomously performing complex manipulation tasks.
+
+        I also collaborate with prof. Vincenzo Carletti, on a wide range of research topics, including **Anomaly Detection in IoT network traffic**, where I analyze the use of **Graph Neural Networks (GNNs)** to detect malicious behaviors, and on the **Graph Matching Problem**, where I am developing a **GPU-accelerated algorithm** to tackle this well-known NP-hard problem.
 
         Please reach out to collaborate 😃
     design:
@@ -42,7 +44,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publications
@@ -50,56 +52,84 @@ sections:
     design:
       view: article-grid
       columns: 2
+  # ==============================
+  # JOURNAL ARTICLES
+  # ==============================
   - block: collection
     content:
-      title: Recent Publications
+      title: Journal Articles
+      source: publications/journal-articles/cite_all.bib
+    design:
+      view: citation
+
+  # ==============================
+  # CONFERENCE PAPERS
+  # ==============================
+  - block: collection
+    content:
+      title: Conference Papers
       text: ''
       filters:
         folders:
-          - publications
+          - publication/conference-paper
         exclude_featured: false
     design:
       view: citation
+
+  # ==============================
+  # PREPRINTS
+  # ==============================
   - block: collection
-    id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Preprints
+      text: ''
       filters:
         folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
+          - publication/preprint
         exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
     design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      view: citation
+
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: card
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: blog
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       tag: ''
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ''
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: card
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
