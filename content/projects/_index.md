@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '8rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
@@ -16,6 +16,7 @@ sections:
       filters:
         folders:
           - projects
+      count: 10        # 👈 Add this line — sets how many projects to show
     design:
       view: article-grid
       fill_image: false
