@@ -54,7 +54,7 @@ sections:
       columns: 2
 
   - block: collection
-    id: papers
+    id: journal_articles
     content:
       title: Journal Articles
       filters:
@@ -62,13 +62,13 @@ sections:
           - publications
         properties:
           publication_types:
-            - article-journal
+            contains: article-journal
         featured_only: false
     design:
       view: citation
 
   - block: collection
-    id: papers
+    id: conference_papers
     content:
       title: Conference Papers
       filters:
@@ -76,7 +76,7 @@ sections:
           - publications
         properties:
           publication_types:
-            - paper-conference
+          contains: paper-conference
         featured_only: false
     design:
       view: citation
