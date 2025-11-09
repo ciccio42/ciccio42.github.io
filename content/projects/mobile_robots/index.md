@@ -1,5 +1,6 @@
 ---
-title: Mobile Robots
+title: Autonomous Mobile Robots
+
 links:
   - type: white-paper
     url: https://drive.google.com/file/d/1mDgctW14oDvLJBhRrXB4QGEyq28pdyG_/view

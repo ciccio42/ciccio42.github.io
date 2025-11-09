@@ -1,5 +1,6 @@
 ---
-title: Control-System Design
+title: Teleoperation Through Haptic Interface
+
 links:
   - type: site
     url: http://www.automatica.unisa.it/projectsMedia.php
