@@ -1,21 +1,21 @@
 ---
-title: 'Projects'
+title: 'Research Projects'
 date: 2024-05-19
 type: landing
 
 design:
   # Section spacing
-  spacing: '8rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
   - block: collection
     content:
-      title: Projects
-      text: A selection of projects I completed during my academic journey
+      title: Research Projects
+      text: A selection of research projects
       filters:
         folders:
-          - projects
+          - research_projects
     design:
       view: article-grid
       fill_image: false
