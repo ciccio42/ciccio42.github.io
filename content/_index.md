@@ -53,26 +53,13 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: collection
+  - block: Publications
     id: journal_articles
     content:
       title: Journal Articles
       filters:
         folders:
-          - publications/journal-article
-        include_subfolders: true
-        featured_only: false
-    design:
-      view: citation
-
-  - block: collection
-    id: conference_papers
-    content:
-      title: Conference Papers
-      filters:
-        folders:
-          - publications/conference-paper
-        include_subfolders: true
+          - publications
         featured_only: false
     design:
       view: citation
