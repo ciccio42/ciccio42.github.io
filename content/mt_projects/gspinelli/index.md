@@ -12,6 +12,8 @@ tags:
   - ROS
 
 featured: true
+
+date: '2025-04-29'
 ---
 
 This thesis investigates the use of fine-tuning in data-driven robotic control, focusing on video-conditioned imitation learning. While fine-tuning is widely successful in computer vision and natural language processing, its application to robotics is challenging due to differences in robot designs, environments, and control spaces.
