@@ -59,7 +59,7 @@ sections:
       title: Journal Articles
       filters:
         folders:
-          - publications
+          - publications/journal-article
         featured_only: false
     design:
       view: citation
@@ -70,7 +70,7 @@ sections:
       title: Conference Papers
       filters:
         folders:
-          - publications
+          - publications/conference-paper
         featured_only: false
     design:
       view: citation
