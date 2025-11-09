@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Robot and Human Interactive Communication (ROMAN),*
-publication_short: In *RO-MAN*
+publication_short: In *RO-MAN-24*
 
 abstract: This paper presents a novel approach to multi-task visual-guided imitation learning. Upon evaluating the current state-of-the-art method, we observed its capability to replicate the intent of the demonstrator, but with the flaw of manipulating incorrect objects. To address this issue, our study introduces a new approach based on the assumption that explicitly addressing task-relevant problems, such as target object localization, can enhance system performance. Our validation shows that the proposal overtakes the leading method thanks to its ability to drive the robot motion towards the target object.
 

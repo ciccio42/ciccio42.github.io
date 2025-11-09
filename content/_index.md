@@ -54,9 +54,9 @@ sections:
       columns: 2
 
   - block: collection
-    id: journal_articles
+    id: articles
     content:
-      title: Journal Articles
+      title: Articles
       filters:
         folders:
           - publications
