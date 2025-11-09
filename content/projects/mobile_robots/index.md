@@ -1,14 +1,17 @@
 ---
-title: Control-System Design
+title: Mobile Robots
 links:
-  - type: site
-    url: http://www.automatica.unisa.it/projectsMedia.php
+  - type: white-paper
+    url: https://drive.google.com/file/d/1mDgctW14oDvLJBhRrXB4QGEyq28pdyG_/view
 tags:
-  - C++
-  - Haptic Interface
+  - TurtleBot 
   - ROS
+  - ros-navigation-stack
+  - Local-Planner
+  - Global-Planner
 ---
 
-Developed a ROS-based system for teleoperating the UR10 manipulator using a 3D haptic interface
+Designed and implemented control software for a mobile robot to autonomously navigate a known environment.
 
+Evaluated and compared localization and local planner algorithms to optimize performance
 <!--more-->
