@@ -224,23 +224,23 @@ skills:
       - name: Python & C/C++
         description: ''
         percent: 100
-        icon: code-bracket
+        # icon: code-bracket
       - name: CUDA Programming
         description: ''
         percent: 70
-        icon: cpu-chip
+        # icon: cpu-chip
       - name: PyTorch & TensorFlow & Hugging Face
         description: ''
         percent: 90
-        icon: layers
+        # icon: layers
       - name: ROS & ROS2
         description: ''
         percent: 100
-        icon: hard-drive
+        # icon: hard-drive
       - name: GIT & Docker
         description: ''
         percent: 100
-        icon: git-branch
+        # icon: git-branch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -248,11 +248,11 @@ skills:
       - name: Reading Books
         description: ''
         percent: 100
-        icon: book-open
+        # icon: book-open
       - name: Watch Film and TV-Series
         description: ''
         percent: 100
-        icon: film
+        # icon: film
       
 languages:
   - name: Italian
