@@ -61,7 +61,7 @@ sections:
       source: publications/journal-articles/cite_all.bib
       filters:
         folders:
-          - publication/journal-articles
+          - publications/journal-articles
     design:
       view: citation
 
