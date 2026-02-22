@@ -7,7 +7,7 @@ title: 'Detecting malicious IoT network communication through Graph Neural Netwo
 authors:
   - Vincenzo Carletti
   - Pasquale Foggia
-  - Francesco Rosa
+  - admin
   - Mario Vento
 
 # Author notes (optional)

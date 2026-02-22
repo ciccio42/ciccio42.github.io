@@ -7,7 +7,7 @@ title: 'Context-aware data augmentation for enhanced speech command recognition 
 authors:
   - Giuseppe de Simone
   - Antonio Greco
-  - Francesco Rosa
+  - admin
   - Alessia Saggese
   - Mario Vento
 
