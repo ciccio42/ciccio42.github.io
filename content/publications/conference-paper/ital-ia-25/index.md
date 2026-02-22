@@ -13,9 +13,10 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'First Author'
+  - 'Corresponding Author'
   - 'Supervisor'
-  - 'Second Author'
+  - 'Corresponding Author'
+  - 'Supervisor'
   - 'Supervisor'
  
   

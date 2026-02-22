@@ -12,6 +12,8 @@ authors:
 # Author notes (optional)
 author_notes:
   - 'First Author'
+  - 'Supervisor'
+  - 'Supervisor'
   
 
 date: '2024-10-30'

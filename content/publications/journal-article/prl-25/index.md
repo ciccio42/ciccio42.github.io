@@ -14,7 +14,7 @@ authors:
 author_notes:
   - 'Corresponding Author'
   - 'Supervisor'
-  - 'Second Author'
+  - 'First Author'
   - 'Supervisor'
 
 date: '2025-01-27'
