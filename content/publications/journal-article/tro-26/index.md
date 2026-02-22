@@ -28,7 +28,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: Submitted to *Transaction on Robotics - Foundation Models for Robotics*
-publication_short: "T-RO"
+publication_short: Submitted to "T-RO - Foundation Models for Robotics"
 
 abstract: Foundation models have transformed natural language and vision research, motivating their use in robotic manipulation to create generalist systems capable of performing diverse tasks. Recent work employs Vision-Language-Action models, trained on a large  collection of robotic data, but their true generalization remains unclear. Current evaluations often mix control and semantic aspects, giving misleading results. For example, a robot may seem to generalize to novel object while merely replicating known trajectories. We introduce an evaluation protocol designed to measure VLA generalization across increasing complexity levels, distinguishing between \textit{spatial-generalization}, i.e., generalization across novel object positions, and \textit{semantic-generalization}, i.e., the ability to combine known objects and skills in new ways. The proposed assessment highlights key limitations in existing VLA methods and offers clear insights for improving robustness and transferability. The proposed framework establishes a basis for standardized VLA evaluation and supports progress toward truly generalist robotic systems. Additional resources and results are available on our project website https://sites.google.com/view/vla-bench/home-page.
 
