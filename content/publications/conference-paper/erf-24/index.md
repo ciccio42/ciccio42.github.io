@@ -11,7 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'First Author'
+  - Corresponding Author
+  - Supervisor
+  - Supervisor
   
 
 date: '2025-01-01'
