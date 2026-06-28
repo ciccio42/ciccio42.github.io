@@ -44,7 +44,7 @@ type: journal
 # Custom links
 links:
   - type: Legal Deposit (Tesi di Dottorato)
-    url: "https://tesidottorato.depositolegale.it/static/PDF/web/viewer.jsp"
+    url: "https://tesidottorato.depositolegale.it/handle/20.500.14242/366866"
 
 
 # Featured image
