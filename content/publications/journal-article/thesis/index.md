@@ -34,7 +34,7 @@ tags:
   - Imitation Learning
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 type: journal
 
 # Standard identifiers for auto-linking
