@@ -70,3 +70,7 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: ""
 ---
+
+## Video
+
+{{< video src="video.mp4" controls="yes" >}}
