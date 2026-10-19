@@ -92,10 +92,27 @@ work:
   - position: Post-Doctoral Researcher
     company_name: University of Salerno
     icon: ''
-    date_start: 2024-11-01
+    date_start: 2026-01-01
     date_end: ''
     summary: |2-
-      Conducting research on data-driven control architectures for anthropomorphic robot manipulators, leveraging Vision-Language-Action models to enable adaptive and intelligent robotic behavior
+      - **Autonomous navigation**: designed an autonomous target-following system on the Boston Dynamics Spot quadruped, integrating target **detection and tracking** with **ROS2/Nav2** for reactive navigation, validated in Gazebo simulation and deployed via Docker.
+      - **Simulation and digital twin**: developed an **NVIDIA Isaac Sim** digital twin of a real UR5e + Robotiq 2F-85 pick-and-place cell, synchronized with the physical setup through ROS2.
+      - **Human-robot collaboration**: ROS2 software architecture for the ARI and Pepper robots, integrating perception, voice interaction, VLM/LLM and Knowledge Graph modules, orchestrated through Behavior Trees and deployed with Docker.
+      - **Robot learning**: development of imitation learning architectures conditioned on human videos for the control of anthropomorphic robots.
+  - position: Research Fellow
+    company_name: University of Salerno
+    icon: ''
+    date_start: 2025-09-01
+    date_end: 2025-12-31
+    summary: |2-
+      - **Simulation benchmarking**: designed and developed a Python framework to evaluate the robustness of **Vision-Language-Action (VLA)** models under distribution shift. Policies recombine known concepts well (**96%** success rate on novel object–container pairs), but show limited spatial generalization (**37%** in interpolation, **≤4.4%** in unseen regions).
+  - position: Researcher – H2020 Project "FELICE"
+    company_name: Centro Ricerche FIAT / University of Salerno
+    icon: ''
+    date_start: 2024-01-01
+    date_end: 2024-12-31
+    summary: |2-
+      - **Real-time embedded AI**: designed a multimodal system for recognizing operator voice and gesture commands on **NVIDIA Jetson Xavier** (latency **< 40 ms**), in an industrial human-robot collaboration setting.
   - position: Visiting Ph.D. Student
     company_name: Groupe de Recherche en Informatique, Image, Automatique et Instrumentation de Caen (GREYC)
     icon: ''
